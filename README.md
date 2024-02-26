@@ -15,8 +15,8 @@ Argentina's economic history, marked by crises like the "Rodrigazo" in the 1970s
 This zeroth edition of the ARED dataset offers a snapshot of the Argentina real estate market from `2024-01-11` to `2024-02-25`, including both listing features as well as images, filling a gap in available datasets focused on Latin America. Execute the `sh` script to download the dataset, or access the below links.
 
 Dataset consists on 2 files:
-- csv file with listing features [features.csv](https://ared0.s3.amazonaws.com/0_ARED.csv)
-- zip file with `webp` formatted images [imgs.zip](https://ared0.s3.amazonaws.com/ared0.tar.gz)
+- csv file with listing features [features.csv](https://ared0.s3.amazonaws.com/ARED0.csv)
+- zip file with `webp` formatted images [imgs.zip](https://ared0.s3.amazonaws.com/ARED0.tar.gz)
     - Each image is named with the property's unique identifier
     - the image folder is organized hierarchichally by the id first 2 chars
     - `00/00aabbc0dbfc65f1747add14cda036c2.webp`
