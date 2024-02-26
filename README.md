@@ -22,7 +22,7 @@ Dataset consists on 2 files:
     - `00/00aabbc0dbfc65f1747add14cda036c2.webp`
 
 <!-- to be added on publication -->
-For more information refer to the dataset [paper](assets/ARED.pdf).
+For more information refer to the dataset [paper](assets/ARED0.pdf).
 
 
 #### <span style="color:orange">Future of ARED</span>
