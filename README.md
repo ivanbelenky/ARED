@@ -32,9 +32,12 @@ ARED will get updated on a quarterly basis. Historical data previous to 11th Jan
 ### Citation
 ----
 ```bibtex
-@inproceedings{belenky2024ared,
-  title={ARED: Argentina Real Estate Dataset},
-  author={Belenky, Iván},
-  year={2024},
+@misc{belenky2024ared,
+      title={ARED: Argentina Real Estate Dataset}, 
+      author={Iván Belenky},
+      year={2024},
+      eprint={2403.00273},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
