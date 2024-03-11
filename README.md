@@ -19,7 +19,7 @@ Dataset consists on 2 files:
 - zip file with `webp` formatted images [imgs.zip](https://ared0.s3.amazonaws.com/ARED0.tar.gz)
     - Each image is named with the property's unique identifier
     - the image folder is organized hierarchichally by the id first 2 chars
-    - `00/00aabbc0dbfc65f1747add14cda036c2.webp`
+    - `00/00aabbc0dbfc65f1747add14cda036c2/1.webp`
 
 <!-- to be added on publication -->
 For more information refer to the dataset [paper](assets/ARED0.pdf).
